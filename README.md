@@ -2,7 +2,7 @@
 
 **Blink Bank** is a lightweight, command-line based expense tracking system built entirely in C to demonstrate proficiency in fundamental programming and memory management.
 
-# Main Feature
+# Main Features
 
 - Use AVL Tree data structure
 - Read and write file
